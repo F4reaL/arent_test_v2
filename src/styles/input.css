@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@font-face {
+    font-family: "Hiragino";
+    src: url("../assets/fonts/HiraginoKakuGothicProNW3.otf");
+  }
